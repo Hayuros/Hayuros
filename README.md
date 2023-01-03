@@ -2,8 +2,6 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
----
-
 ### Tecnologias e Ferramentas
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='50'/>
